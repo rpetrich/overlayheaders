@@ -1,3 +1,6 @@
 [submodule "CaptainHook"]
 	path = CaptainHook
 	url = git://github.com/rpetrich/CaptainHook
+[submodule "_/CF"]
+	path = _/CF
+	url = https://github.com/opensource-apple/CF.git
