@@ -4,3 +4,6 @@
 [submodule "_/CF"]
 	path = _/CF
 	url = https://github.com/opensource-apple/CF.git
+[submodule "_/xnu"]
+	path = _/xnu
+	url = https://github.com/opensource-apple/xnu.git
